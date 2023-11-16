@@ -2,12 +2,19 @@
 
 This page gathers the stroke modelling work for the Stroke Audit Machine Learning (SAMueL) project.
 
+<figure>
+    <img style="float: right;" src="../images/online_books_400w.png" alt="Screenshots of the online books' front pages">
+    <figcaption>Caption test</figcaption>
+</figure>
+
+
 Most of our important work is published on these online books:
 
 + [![Jupyter Book Badge][jupyterbooks-img]][samuel1-book-link] [SAMueL-1 project][samuel1-book-link] (complete)
 + [![Jupyter Book Badge][jupyterbooks-img]][samuel2-book-link] [SAMueL-2 project][samuel2-book-link] (ongoing)
 
-__Related organisations__
+
+__Related GitHub organisations__
 
 Some of the SAMueL-2 work is also shared between other projects, and some code will be packaged up and stored elsewhere. The following organisations will one day store that content:
 + [stroke-modelling](https://github.com/stroke-modelling)
