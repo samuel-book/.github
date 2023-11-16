@@ -49,9 +49,9 @@ Some of the SAMueL-2 work is also shared between other projects, and some code w
 
 | | | |
 | --- | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/141143213" alt="Stroke-Modelling organisation logo" height="30"> [stroke-modelling][github-link-stroke-modelling] | [![GitHub Badge][github-img]][github-link-stroke-modelling] | Python packages for easily using our models. | 
-| <img src="https://avatars.githubusercontent.com/u/77266176" alt="OPTIMIST organisation logo" height="30"> [stroke-optimist][github-link-stroke-optimist] | [![GitHub Badge][github-img]][github-link-stroke-optimist]  | Stroke OPTIMIST Project: OPTimising IMplementation of Ischaemic Stroke Thrombectomy. | 
-| <img src="https://avatars.githubusercontent.com/u/145005029" alt="Stroke-Digital-Twin organisation logo" height="30"> [stroke-digital-twin][github-link-stroke-digital-twin] | [![GitHub Badge][github-img]][github-link-stroke-digital-twin] | Digital twins of the stroke pathway. | 
+| <a href="https://github.com/stroke-modelling/"><img src="https://avatars.githubusercontent.com/u/141143213" alt="Stroke-Modelling organisation logo" height="30"></a> [stroke-modelling][github-link-stroke-modelling] | [![GitHub Badge][github-img]][github-link-stroke-modelling] | Python packages for easily using our models. | 
+| <a href="https://github.com/stroke-optimist/"><img src="https://avatars.githubusercontent.com/u/77266176" alt="OPTIMIST organisation logo" height="30"></a> [stroke-optimist][github-link-stroke-optimist] | [![GitHub Badge][github-img]][github-link-stroke-optimist]  | Stroke OPTIMIST Project: OPTimising IMplementation of Ischaemic Stroke Thrombectomy. | 
+| <a href="https://github.com/stroke-digital-twin/"><img src="https://avatars.githubusercontent.com/u/145005029" alt="Stroke-Digital-Twin organisation logo" height="30"></a> [stroke-digital-twin][github-link-stroke-digital-twin] | [![GitHub Badge][github-img]][github-link-stroke-digital-twin] | Digital twins of the stroke pathway. | 
 
 ## Repositories here 
 
@@ -93,7 +93,7 @@ List of tags: `💻 Modelling` `🧮 Data prep.` `📜 Paper` `🖼️ Slides` `
 | streamlit_pathway_improvement | Streamlit app for pathway improvement data |  `🎮 Streamlit app` |
 | streamlit_stroke_treatment_ml | Streamlit app for machine learning model to predict treatment given to emergency stroke patients |  `🎮 Streamlit app` |
 | streamlit_descriptive_stats | Streamlit app for descriptive statistics for each stroke team in the SAMuEL project |  `🎮 Streamlit app` |
-| streamlit_map_lsoa_outcomes | Test app for maps in streamlit | `🎮 Streamlit app` |
+| streamlit_map_lsoa_outcomes | Test app for maps in streamlit | `🎮 Streamlit app`<br>`🧪 Test` |
 | stroke_outcome_app | Streamlit app for stroke outcome modelling | `🎮 Streamlit app` |
 | samuel-2-reference | A repository of general reference documents for the SAMueL-2 project | `📎 Admin` |
 | samuel-1 | (blank)  | `🕮 Online book` |
