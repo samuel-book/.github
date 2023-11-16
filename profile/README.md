@@ -2,6 +2,8 @@
 
 This page gathers the stroke modelling work for the Stroke Audit Machine Learning (SAMueL) project.
 
+### Online books
+
 <a href="https://samuel-book.github.io/samuel-1/introduction/intro.html"><img align="right" src="https://raw.githubusercontent.com/samuel-book/.github/main/images/online_books_400w.png" alt="Screenshots of the online books' front pages"></a>
 
 Most of our important work is published on these online books:
@@ -9,13 +11,17 @@ Most of our important work is published on these online books:
 + [![Jupyter Book Badge][jupyterbooks-img]][samuel1-book-link] [SAMueL-1 project][samuel1-book-link] (complete)
 + [![Jupyter Book Badge][jupyterbooks-img]][samuel2-book-link] [SAMueL-2 project][samuel2-book-link] (ongoing)
 
-
-__Related GitHub organisations__
+### Related GitHub organisations
 
 Some of the SAMueL-2 work is also shared between other projects, and some code will be packaged up and stored elsewhere. The following organisations will one day store that content:
-+ [stroke-modelling](https://github.com/stroke-modelling)
-+ [stroke-optimist](https://github.com/stroke-optimist)
-+ [stroke-digital-twin](https://github.com/stroke-digital-twin)
+
+| | | |
+| --- | --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/141143213" alt="Stroke-Modelling organisation logo" height="40"> [stroke-modelling][github-link-stroke-modelling] | [![GitHub Badge][github-img]][github-link-stroke-modelling] | Python packages for easily using our models. | 
+| <img src="https://avatars.githubusercontent.com/u/77266176" alt="OPTIMIST organisation logo" height="40"> [stroke-optimist][github-link-stroke-optimist] | [![GitHub Badge][github-img]][github-link-stroke-optimist]  | Stroke OPTIMIST Project: OPTimising IMplementation of Ischaemic Stroke Thrombectomy. | 
+| <img src="https://avatars.githubusercontent.com/u/145005029" alt="Stroke-Digital-Twin organisation logo" height="40"> [stroke-digital-twin][github-link-stroke-digital-twin] | [![GitHub Badge][github-img]][github-link-stroke-digital-twin] | Digital twins of the stroke pathway. | 
+
+### Repositories here 
 
 As of November 2023, the public repositories here are the following:
 
@@ -34,19 +40,19 @@ As of November 2023, the public repositories here are the following:
 | model_comparison | A comparison of different model types using SAMueL-1 data  | `💻 Modelling` |
 | stroke_unit_demographics | Collating demographic data for emergency stroke unit catchment areas | `🧮 Data prep.` |
 | samuel_2_data_prep | SAMUeL_2 data preparation | `🧮 Data prep.` |
-| overleaf_stroke_outcome_1 | Open paper on stroke outcome modelling | `🍃 Overleaf` `📜 Paper` | 
-| overleaf_samuel_shap_presentation | SHAP presentation | `🍃 Overleaf` `🖼️ Slides` |
-| overleaf_shap_paper_2 | SHAP paper focusing on interactions | `🍃 Overleaf` `📜 Paper` | 
-| overleaf_shap_paper_1_for_esj | Overleaf_SHAP_paper_1_for_ESJ | `🍃 Overleaf` `📜 Paper` | 
-| overleaf_shap_paper_1_short | Overleaf SAMueL SHAP Paper 2 | `🍃 Overleaf` `📜 Paper` | 
-| overleaf_samuel_1_contentious_patients | Paper | `🍃 Overleaf` `📜 Paper` | 
-| overleaf_shap_pci_jan_2023 | Patient and carers meeting Jan 2023 | `🍃 Overleaf` `🖼️ Slides` |
-| overleaf_shap_paper_1_long | Shap paper 1 - long - preprint | `🍃 Overleaf` `📜 Paper` | 
-| overleaf_stakeholder_cambridge_icb_dec_2022 | Presentation to the Cambridge and Peterborough Integrated Care Board (Health Inequalities) | `🍃 Overleaf` `🖼️ Slides` |
-| overleaf_advisory_group_nov_2022 | SAMueL Advisory Group November 2022 | `🍃 Overleaf` `🖼️ Slides` |
-| overleaf_samuel_overview | Overleaf beamer slides for an overview of SAMueL, originally made for an HSMA talk in November 2022. | `🍃 Overleaf` `🖼️ Slides` |
-| overleaf_coproduction_workshop_1 | Coproduction workshop slides | `🍃 Overleaf` `🖼️ Slides` |
-| overleaf_samuel_pci_oct_2022 | pci slides | `🍃 Overleaf` `🖼️ Slides` |
+| overleaf_stroke_outcome_1 | Open paper on stroke outcome modelling | `🍃 Overleaf`<br>`📜 Paper` | 
+| overleaf_samuel_shap_presentation | SHAP presentation | `🍃 Overleaf`<br>`🖼️ Slides` |
+| overleaf_shap_paper_2 | SHAP paper focusing on interactions | `🍃 Overleaf`<br>`📜 Paper` | 
+| overleaf_shap_paper_1_for_esj | Overleaf_SHAP_paper_1_for_ESJ | `🍃 Overleaf` <br>`📜 Paper` | 
+| overleaf_shap_paper_1_short | Overleaf SAMueL SHAP Paper 2 | `🍃 Overleaf`<br>`📜 Paper` | 
+| overleaf_samuel_1_contentious_patients | Paper | `🍃 Overleaf`<br>`📜 Paper` | 
+| overleaf_shap_pci_jan_2023 | Patient and carers meeting Jan 2023 | `🍃 Overleaf`<br>`🖼️ Slides` |
+| overleaf_shap_paper_1_long | Shap paper 1 - long - preprint | `🍃 Overleaf`<br>`📜 Paper` | 
+| overleaf_stakeholder_cambridge_icb_dec_2022 | Presentation to the Cambridge and Peterborough Integrated Care Board (Health Inequalities) | `🍃 Overleaf`<br>`🖼️ Slides` |
+| overleaf_advisory_group_nov_2022 | SAMueL Advisory Group November 2022 | `🍃 Overleaf`<br>`🖼️ Slides` |
+| overleaf_samuel_overview | Overleaf beamer slides for an overview of SAMueL, originally made for an HSMA talk in November 2022. | `🍃 Overleaf`<br>`🖼️ Slides` |
+| overleaf_coproduction_workshop_1 | Coproduction workshop slides | `🍃 Overleaf`<br>`🖼️ Slides` |
+| overleaf_samuel_pci_oct_2022 | pci slides | `🍃 Overleaf`<br>`🖼️ Slides` |
 | samuel_shap_paper_2 | Continuing exploratory work with Shap using SAMueL-1 data | `📜 Paper` | 
 | samuel_shap_paper_1 | Exploratory work with Shap using SAMueL-1 data | `📜 Paper` | 
 | streamlit_combo_stroke | Combined the existing stroke streamlit apps into one multipage app | `🎮 Streamlit app` |
@@ -68,3 +74,8 @@ As of November 2023, the public repositories here are the following:
 [jupyterbooks-img]: https://jupyterbook.org/badge.svg
 [samuel1-book-link]: https://samuel-book.github.io/samuel-1/introduction/intro.html
 [samuel2-book-link]: https://samuel-book.github.io/samuel-2/introduction/intro.html
+
+[github-img]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
+[github-link-stroke-modelling]: https://github.com/stroke-modelling/
+[github-link-stroke-optimist]: https://github.com/stroke-optimist/
+[github-link-stroke-digital-twin]: https://github.com/stroke-digital-twin/
