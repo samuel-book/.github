@@ -5,10 +5,27 @@ This page gathers the stroke modelling work for the Stroke Audit Machine Learnin
 
 ### Summary of SAMueL-1
 
-| | |
-| --- | --- |
-| <img src="https://raw.githubusercontent.com/samuel-book/.github/main/images/Slide1.JPG" alt="Summary slide 1"> | <img src="https://raw.githubusercontent.com/samuel-book/.github/main/images/Slide2.JPG" alt="Summary slide 2"> |
-| <img src="https://raw.githubusercontent.com/samuel-book/.github/main/images/Slide3.JPG" alt="Summary slide 3"> | <img src="https://raw.githubusercontent.com/samuel-book/.github/main/images/Slide4.JPG" alt="Summary slide 4"> |
+
+<details open>
+<summary>What problem are we addressing?</summary>
+<img src="https://raw.githubusercontent.com/samuel-book/.github/main/images/Slide1.JPG" alt="Summary slide 1">
+</details>
+
+<details>
+<summary>What did we do?</summary>
+<img src="https://raw.githubusercontent.com/samuel-book/.github/main/images/Slide2.JPG" alt="Summary slide 2">
+</details>
+
+<details>
+<summary>What did we find?</summary>
+<img src="https://raw.githubusercontent.com/samuel-book/.github/main/images/Slide3.JPG" alt="Summary slide 3">
+</details>
+
+<details>
+<summary>What did doctors think?</summary>
+<img src="https://raw.githubusercontent.com/samuel-book/.github/main/images/Slide4.JPG" alt="Summary slide 4">
+</details>
+
 
 <a href="https://samuel-book.github.io/samuel-1/introduction/intro.html"><img align="right" src="https://raw.githubusercontent.com/samuel-book/.github/main/images/online_books_400w.png" alt="Screenshots of the online books' front pages"></a>
 
