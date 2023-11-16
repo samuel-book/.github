@@ -17,7 +17,7 @@ Some of the SAMueL-2 work is also shared between other projects, and some code w
 As of November 2023, the public repositories here are the following:
 
 <details>
-<summary>Modelling</summary>
+<summary>Repositories</summary>
 
 | Repository | Description | Tags |
 | --- | --- | --- |
@@ -29,24 +29,8 @@ As of November 2023, the public repositories here are the following:
 | samuel_causal | Causal analysis and diagrams for the SAMueL project | `💻 Modelling` |
 | synthetic_data | Create synthetic data from SAMueL data | `💻 Modelling` |
 | model_comparison | A comparison of different model types using SAMueL-1 data  | `💻 Modelling` |
-
-</details>
-
-<details>
-<summary>Data preparation</summary>
-
-| Repository | Description | Tags |
-| --- | --- | --- |
 | stroke_unit_demographics | Collating demographic data for emergency stroke unit catchment areas | `🧮 Data prep.` |
 | samuel_2_data_prep | SAMUeL_2 data preparation | `🧮 Data prep.` |
-
-</details>
-
-<details>
-<summary>Papers and presentations</summary>
-
-| Repository | Description | Tags |
-| --- | --- | --- |
 | overleaf_stroke_outcome_1 | Open paper on stroke outcome modelling | `🍃 Overleaf` `📜 Paper` | 
 | overleaf_samuel_shap_presentation | SHAP presentation | `🍃 Overleaf` `🖼️ Slides` |
 | overleaf_shap_paper_2 | SHAP paper focusing on interactions | `🍃 Overleaf` `📜 Paper` | 
@@ -62,40 +46,16 @@ As of November 2023, the public repositories here are the following:
 | overleaf_samuel_pci_oct_2022 | pci slides | `🍃 Overleaf` `🖼️ Slides` |
 | samuel_shap_paper_2 | Continuing exploratory work with Shap using SAMueL-1 data | `📜 Paper` | 
 | samuel_shap_paper_1 | Exploratory work with Shap using SAMueL-1 data | `📜 Paper` | 
-
-</details>
-
-<details>
-<summary>Streamlit apps</summary>
-
-| Repository | Description | Tags |
-| --- | --- | --- |
 | streamlit_combo_stroke | Combined the existing stroke streamlit apps into one multipage app | `🎮 Streamlit app` |
 | streamlit_pathway_improvement | Streamlit app for pathway improvement data |  `🎮 Streamlit app` |
 | streamlit_stroke_treatment_ml | Streamlit app for machine learning model to predict treatment given to emergency stroke patients |  `🎮 Streamlit app` |
 | streamlit_descriptive_stats | Streamlit app for descriptive statistics for each stroke team in the SAMuEL project |  `🎮 Streamlit app` |
 | streamlit_map_lsoa_outcomes | Test app for maps in streamlit | `🎮 Streamlit app` |
 | stroke_outcome_app | Streamlit app for stroke outcome modelling | `🎮 Streamlit app` |
-
-</details>
-
-<details>
-<summary>Admin, reference and online books</summary>
-
-| Repository | Description | Tags |
-| --- | --- | --- |
 | samuel-2-reference | A repository of general reference documents for the SAMueL-2 project | `📎 Admin` |
 | samuel-1 | (blank)  | `🕮 Online book` |
 | samuel-2 | Jupyter book for SAMueL-2 project | `🕮 Online book` |
 | .github | For this organisation's README etc. | `📎 Admin` |
-
-</details>
-
-<details>
-<summary>Demos and testing</summary>
-
-| Repository | Description | Tags |
-| --- | --- | --- |
 | causal_inference_basics | Basics of causal inference | `🧪 Test` |
 | smote-variation | Variation of SMOTE | `🧪 Test` |
 | import_from_relative_path | Demo to show how to import a module from a package in a different directory | `🧪 Test` |
