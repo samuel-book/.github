@@ -57,7 +57,7 @@ Some of the SAMueL-2 work is also shared between other projects, and some code w
 
 As of November 2023, the public repositories here are the following:
 
-List of tags: `💻 Modelling` `🧮 Data prep.` `📜 Paper` `🖼️ Slides` `🍃 Overleaf` `🎮 Streamlit app` `📎 Admin` `🕮 Online book` `🧪 Test` 
+List of tags: `💻 Modelling` `🧮 Data prep.` `📜 Paper` `🖼️ Slides` `🍃 Overleaf` `🎮 Streamlit app` `📎 Admin` `🕮 Online book` `🧪 Test` `⚖️ SHAP` `🔮 Machine learning` `📋 Outcomes` `⏱️ Pathway`
 
 <details>
 <summary>[Click here] Repository list</summary>
@@ -66,35 +66,36 @@ List of tags: `💻 Modelling` `🧮 Data prep.` `📜 Paper` `🖼️ Slides` `
 | --- | --- | --- |
 | samuel_2_production | Core code for SAMueL-2 | `💻 Modelling` |
 | ssnap_production_code | Code for running of SAMueL analysis by SSNAP | `💻 Modelling` |
-| stroke_outcome_xgb_shap | XGB model, with SHAP, for stroke outcome | `💻 Modelling` |
-| skeleton-pathway-model | Skeleton SimPy stroke pathway model from onset to thrombolysis and thrombectomy | `💻 Modelling` |
-| stroke_outcome | Outcome modelling | `💻 Modelling` |
+| stroke_outcome_xgb_shap | XGB model, with SHAP, for stroke outcome | `💻 Modelling`<br>`⚖️ SHAP`<br>`🔮 Machine learning`
+| stroke_outcome_app | Streamlit app for stroke outcome modelling | `🎮 Streamlit app`<br>`📋 Outcomes` | 
+| skeleton-pathway-model | Skeleton SimPy stroke pathway model from onset to thrombolysis and thrombectomy | `💻 Modelling`<br>`⏱️ Pathway` |
+| stroke_outcome | Outcome modelling | `💻 Modelling`<br>`📋 Outcomes` |
 | samuel_causal | Causal analysis and diagrams for the SAMueL project | `💻 Modelling` |
-| synthetic_data | Create synthetic data from SAMueL data | `💻 Modelling` |
+| synthetic_data | Create synthetic data from SAMueL data | `💻 Modelling`<br>`🧮 Data prep.` |
 | model_comparison | A comparison of different model types using SAMueL-1 data  | `💻 Modelling` |
 | stroke_unit_demographics | Collating demographic data for emergency stroke unit catchment areas | `🧮 Data prep.` |
 | samuel_2_data_prep | SAMUeL_2 data preparation | `🧮 Data prep.` |
 | overleaf_stroke_outcome_1 | Open paper on stroke outcome modelling | `🍃 Overleaf`<br>`📜 Paper` | 
-| overleaf_samuel_shap_presentation | SHAP presentation | `🍃 Overleaf`<br>`🖼️ Slides` |
-| overleaf_shap_paper_2 | SHAP paper focusing on interactions | `🍃 Overleaf`<br>`📜 Paper` | 
-| overleaf_shap_paper_1_for_esj | Overleaf_SHAP_paper_1_for_ESJ | `🍃 Overleaf` <br>`📜 Paper` | 
-| overleaf_shap_paper_1_short | Overleaf SAMueL SHAP Paper 2 | `🍃 Overleaf`<br>`📜 Paper` | 
+| overleaf_samuel_shap_presentation | SHAP presentation | `🍃 Overleaf`<br>`🖼️ Slides`<br>`⚖️ SHAP`<br>`🔮 Machine learning` |
+| overleaf_shap_paper_2 | SHAP paper focusing on interactions | `🍃 Overleaf`<br>`📜 Paper`<br>`⚖️ SHAP`<br>`🔮 Machine learning` | 
+| overleaf_shap_paper_1_for_esj | Overleaf_SHAP_paper_1_for_ESJ | `🍃 Overleaf` <br>`📜 Paper`<br>`⚖️ SHAP`<br>`🔮 Machine learning` | 
+| overleaf_shap_paper_1_short | Overleaf SAMueL SHAP Paper 2 | `🍃 Overleaf`<br>`📜 Paper`<br>`⚖️ SHAP`<br>`🔮 Machine learning` | 
 | overleaf_samuel_1_contentious_patients | Paper | `🍃 Overleaf`<br>`📜 Paper` | 
-| overleaf_shap_pci_jan_2023 | Patient and carers meeting Jan 2023 | `🍃 Overleaf`<br>`🖼️ Slides` |
-| overleaf_shap_paper_1_long | Shap paper 1 - long - preprint | `🍃 Overleaf`<br>`📜 Paper` | 
+| overleaf_shap_pci_jan_2023 | Patient and carers meeting Jan 2023 | `🍃 Overleaf`<br>`🖼️ Slides`<br>`⚖️ SHAP`<br>`🔮 Machine learning` |
+| overleaf_shap_paper_1_long | Shap paper 1 - long - preprint | `🍃 Overleaf`<br>`📜 Paper`<br>`⚖️ SHAP`<br>`🔮 Machine learning` | 
 | overleaf_stakeholder_cambridge_icb_dec_2022 | Presentation to the Cambridge and Peterborough Integrated Care Board (Health Inequalities) | `🍃 Overleaf`<br>`🖼️ Slides` |
 | overleaf_advisory_group_nov_2022 | SAMueL Advisory Group November 2022 | `🍃 Overleaf`<br>`🖼️ Slides` |
 | overleaf_samuel_overview | Overleaf beamer slides for an overview of SAMueL, originally made for an HSMA talk in November 2022. | `🍃 Overleaf`<br>`🖼️ Slides` |
 | overleaf_coproduction_workshop_1 | Coproduction workshop slides | `🍃 Overleaf`<br>`🖼️ Slides` |
 | overleaf_samuel_pci_oct_2022 | pci slides | `🍃 Overleaf`<br>`🖼️ Slides` |
-| samuel_shap_paper_2 | Continuing exploratory work with Shap using SAMueL-1 data | `📜 Paper` | 
-| samuel_shap_paper_1 | Exploratory work with Shap using SAMueL-1 data | `📜 Paper` | 
-| streamlit_combo_stroke | Combined the existing stroke streamlit apps into one multipage app | `🎮 Streamlit app` |
-| streamlit_pathway_improvement | Streamlit app for pathway improvement data |  `🎮 Streamlit app` |
-| streamlit_stroke_treatment_ml | Streamlit app for machine learning model to predict treatment given to emergency stroke patients |  `🎮 Streamlit app` |
+| samuel_shap_paper_2 | Continuing exploratory work with Shap using SAMueL-1 data | `📜 Paper`<br>`⚖️ SHAP`<br>`🔮 Machine learning` | 
+| samuel_shap_paper_1 | Exploratory work with Shap using SAMueL-1 data | `📜 Paper`<br>`⚖️ SHAP`<br>`🔮 Machine learning` | 
+| streamlit_combo_stroke | Combined the existing stroke streamlit apps into one multipage app | `🎮 Streamlit app`<br>`⚖️ SHAP`<br>`🔮 Machine learning`<br>`📋 Outcomes`<br>`⏱️ Pathway` |
+| streamlit_pathway_improvement | Streamlit app for pathway improvement data |  `🎮 Streamlit app`<br>`📋 Outcomes`<br>`⏱️ Pathway` |
+| streamlit_stroke_treatment_ml | Streamlit app for machine learning model to predict treatment given to emergency stroke patients |  `🎮 Streamlit app`<br>`⚖️ SHAP`<br>`🔮 Machine learning` |
 | streamlit_descriptive_stats | Streamlit app for descriptive statistics for each stroke team in the SAMuEL project |  `🎮 Streamlit app` |
-| streamlit_map_lsoa_outcomes | Test app for maps in streamlit | `🎮 Streamlit app`<br>`🧪 Test` |
-| stroke_outcome_app | Streamlit app for stroke outcome modelling | `🎮 Streamlit app` |
+| stroke_outcome_app | Streamlit app for stroke outcome modelling | `🎮 Streamlit app`<br>`📋 Outcomes` |
+| streamlit_map_lsoa_outcomes | Test app for maps in streamlit | `🎮 Streamlit app`<br>`🧪 Test`<br>`📋 Outcomes` |
 | samuel-2-reference | A repository of general reference documents for the SAMueL-2 project | `📎 Admin` |
 | samuel-1 | (blank)  | `🕮 Online book` |
 | samuel-2 | Jupyter book for SAMueL-2 project | `🕮 Online book` |
