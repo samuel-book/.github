@@ -51,7 +51,7 @@ Some of the SAMueL-2 work is also shared between other projects, and some code w
 As of November 2023, the public repositories here are the following:
 
 <details>
-<summary>Repositories</summary>
+<summary>[Click here] Repositories</summary>
 
 | Repository | Description | Tags |
 | --- | --- | --- |
