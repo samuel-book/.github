@@ -2,6 +2,14 @@
 
 This page gathers the stroke modelling work for the Stroke Audit Machine Learning (SAMueL) project.
 
+
+### Summary of SAMueL-1
+
+| | |
+| --- | --- |
+| <img src="https://raw.githubusercontent.com/samuel-book/.github/main/images/Slide1.JPG" alt="Summary slide 1"> | <img src="https://raw.githubusercontent.com/samuel-book/.github/main/images/Slide2.JPG" alt="Summary slide 2"> |
+| <img src="https://raw.githubusercontent.com/samuel-book/.github/main/images/Slide3.JPG" alt="Summary slide 3"> | <img src="https://raw.githubusercontent.com/samuel-book/.github/main/images/Slide4.JPG" alt="Summary slide 4"> |
+
 <a href="https://samuel-book.github.io/samuel-1/introduction/intro.html"><img align="right" src="https://raw.githubusercontent.com/samuel-book/.github/main/images/online_books_400w.png" alt="Screenshots of the online books' front pages"></a>
 
 ### Online books
