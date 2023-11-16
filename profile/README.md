@@ -3,10 +3,9 @@
 This page gathers the stroke modelling work for the Stroke Audit Machine Learning (SAMueL) project.
 
 <figure>
-    <img style="float: right;" src="../images/online_books_400w.png" alt="Screenshots of the online books' front pages">
+    <img style="float: right;" src="https://raw.githubusercontent.com/samuel-book/.github/main/images/online_books_400w.png" alt="Screenshots of the online books' front pages">
     <figcaption>Caption test</figcaption>
 </figure>
-
 
 Most of our important work is published on these online books:
 
