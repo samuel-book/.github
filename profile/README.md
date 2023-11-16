@@ -4,7 +4,7 @@ This page gathers the stroke modelling work for the Stroke Audit Machine Learnin
 
 <figure>
   <img align="right" src="https://raw.githubusercontent.com/samuel-book/.github/main/images/online_books_400w.png" alt="Screenshots of the online books' front pages">
-  <figcaption>figcaption test</figcaption>
+  <figcaption align="right">figcaption test</figcaption>
 </figure>
 
 <p align="right">
