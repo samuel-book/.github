@@ -2,8 +2,10 @@
 
 This page gathers the stroke modelling work for the Stroke Audit Machine Learning (SAMueL) project.
 
+An overview of the project and a list of related publications are available on [the NIHR website](https://arc-swp.nihr.ac.uk/research/projects/samuel/).
 
-### Summary of SAMueL-1
+
+## Summary of SAMueL-1
 
 
 <details open>
@@ -29,29 +31,36 @@ This page gathers the stroke modelling work for the Stroke Audit Machine Learnin
 
 <a href="https://samuel-book.github.io/samuel-1/introduction/intro.html"><img align="right" src="https://raw.githubusercontent.com/samuel-book/.github/main/images/online_books_400w.png" alt="Screenshots of the online books' front pages"></a>
 
-### Online books
+## Online books
 
-Most of our important work is published on these online books:
+Our key results are published on these online books:
 
 + [![Jupyter Book Badge][jupyterbooks-img]][samuel1-book-link] [SAMueL-1 project][samuel1-book-link] (complete)
 + [![Jupyter Book Badge][jupyterbooks-img]][samuel2-book-link] [SAMueL-2 project][samuel2-book-link] (ongoing)
 
-### Related GitHub organisations
+These books cover the whole process of finding our results. They contain both plain-English summaries and more technical walkthroughs. 
 
-Some of the SAMueL-2 work is also shared between other projects, and some code will be packaged up and stored elsewhere. The following organisations will one day store that content:
+The contents include background information on stroke and treatment, introductions to the methods and concepts used, and applications of the methods to our data.
+
+
+## Related GitHub organisations
+
+Some of the SAMueL-2 work is also shared between other projects, and some code will be packaged up and stored elsewhere. The following organisations will store that content when it is ready:
 
 | | | |
 | --- | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/141143213" alt="Stroke-Modelling organisation logo" height="40"> [stroke-modelling][github-link-stroke-modelling] | [![GitHub Badge][github-img]][github-link-stroke-modelling] | Python packages for easily using our models. | 
-| <img src="https://avatars.githubusercontent.com/u/77266176" alt="OPTIMIST organisation logo" height="40"> [stroke-optimist][github-link-stroke-optimist] | [![GitHub Badge][github-img]][github-link-stroke-optimist]  | Stroke OPTIMIST Project: OPTimising IMplementation of Ischaemic Stroke Thrombectomy. | 
-| <img src="https://avatars.githubusercontent.com/u/145005029" alt="Stroke-Digital-Twin organisation logo" height="40"> [stroke-digital-twin][github-link-stroke-digital-twin] | [![GitHub Badge][github-img]][github-link-stroke-digital-twin] | Digital twins of the stroke pathway. | 
+| <img src="https://avatars.githubusercontent.com/u/141143213" alt="Stroke-Modelling organisation logo" height="30"> [stroke-modelling][github-link-stroke-modelling] | [![GitHub Badge][github-img]][github-link-stroke-modelling] | Python packages for easily using our models. | 
+| <img src="https://avatars.githubusercontent.com/u/77266176" alt="OPTIMIST organisation logo" height="30"> [stroke-optimist][github-link-stroke-optimist] | [![GitHub Badge][github-img]][github-link-stroke-optimist]  | Stroke OPTIMIST Project: OPTimising IMplementation of Ischaemic Stroke Thrombectomy. | 
+| <img src="https://avatars.githubusercontent.com/u/145005029" alt="Stroke-Digital-Twin organisation logo" height="30"> [stroke-digital-twin][github-link-stroke-digital-twin] | [![GitHub Badge][github-img]][github-link-stroke-digital-twin] | Digital twins of the stroke pathway. | 
 
-### Repositories here 
+## Repositories here 
 
 As of November 2023, the public repositories here are the following:
 
+List of tags: `💻 Modelling` `🧮 Data prep.` `📜 Paper` `🖼️ Slides` `🍃 Overleaf` `🎮 Streamlit app` `📎 Admin` `🕮 Online book` `🧪 Test` 
+
 <details>
-<summary>[Click here] Repositories</summary>
+<summary>[Click here] Repository list</summary>
 
 | Repository | Description | Tags |
 | --- | --- | --- |
