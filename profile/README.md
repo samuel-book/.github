@@ -7,22 +7,22 @@ This page gathers the stroke modelling work for the Stroke Audit Machine Learnin
 
 
 <details open>
-<summary>What problem are we addressing?</summary>
+<summary>[Click here] <b>What problem are we addressing?</b></summary>
 <img src="https://raw.githubusercontent.com/samuel-book/.github/main/images/Slide1.JPG" alt="Summary slide 1">
 </details>
 
 <details>
-<summary>What did we do?</summary>
+<summary>[Click here] <b>What did we do?</b></summary>
 <img src="https://raw.githubusercontent.com/samuel-book/.github/main/images/Slide2.JPG" alt="Summary slide 2">
 </details>
 
 <details>
-<summary>What did we find?</summary>
+<summary>[Click here] <b>What did we find?</b></summary>
 <img src="https://raw.githubusercontent.com/samuel-book/.github/main/images/Slide3.JPG" alt="Summary slide 3">
 </details>
 
 <details>
-<summary>What did doctors think?</summary>
+<summary>[Click here] <b>What did doctors think?</b></summary>
 <img src="https://raw.githubusercontent.com/samuel-book/.github/main/images/Slide4.JPG" alt="Summary slide 4">
 </details>
 
