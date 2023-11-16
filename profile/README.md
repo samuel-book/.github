@@ -107,7 +107,7 @@ List of tags: `💻 Modelling` `🧮 Data prep` `📜 Paper` `🖼️ Slides` `�
 | overleaf_shap_paper_1_long | Shap paper 1 - long - preprint | `🍃 Overleaf`<br>`📜 Paper`<br>`⚖️ SHAP`<br>`🔮 Machine learning` | 
 | overleaf_stakeholder_cambridge_icb_dec_2022 | Presentation to the Cambridge and Peterborough Integrated Care Board (Health Inequalities) | `🍃 Overleaf`<br>`🖼️ Slides`<br>`🔮 Machine learning`<br>`📋 Outcomes`<br>`🗺️ Geography` |
 | overleaf_advisory_group_nov_2022 | SAMueL Advisory Group November 2022 | `🍃 Overleaf`<br>`🖼️ Slides`<br>`⚖️ SHAP`<br>`🔮 Machine learning`<br>`📋 Outcomes` |
-| overleaf_samuel_overview | Overleaf beamer slides for an overview of SAMueL, originally made for an HSMA talk in November 2022. | `🍃 Overleaf`<br>`🖼️ Slides`<br>`🔮 Machine learning`<br>`📋 Outcomes`<br>`🎮 Streamlit app |
+| overleaf_samuel_overview | Overleaf beamer slides for an overview of SAMueL, originally made for an HSMA talk in November 2022. | `🍃 Overleaf`<br>`🖼️ Slides`<br>`🔮 Machine learning`<br>`📋 Outcomes`<br>`🎮 Streamlit app` |
 | overleaf_coproduction_workshop_1 | Coproduction workshop slides | `🍃 Overleaf`<br>`🖼️ Slides`<br>`⚖️ SHAP`<br>`🔮 Machine learning` |
 | overleaf_samuel_pci_oct_2022 | pci slides | `🍃 Overleaf`<br>`🖼️ Slides` |
 | samuel_shap_paper_2 | Continuing exploratory work with Shap using SAMueL-1 data | `📜 Paper`<br>`⚖️ SHAP`<br>`🔮 Machine learning` | 
