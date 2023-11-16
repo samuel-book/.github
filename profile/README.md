@@ -1,4 +1,4 @@
-# SAMuEL-book
+# SAMueL-book
 
 This page gathers the stroke modelling work for the Stroke Audit Machine Learning (SAMueL) project.
 
