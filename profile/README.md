@@ -49,9 +49,9 @@ Some of the SAMueL-2 work is also shared between other projects, and some code w
 
 | | | |
 | --- | --- | --- |
-| <a href="https://github.com/stroke-modelling/"><img src="https://avatars.githubusercontent.com/u/141143213" alt="Stroke-Modelling organisation logo" height="30"></a> [stroke-modelling][github-link-stroke-modelling] | [![GitHub Badge][github-img]][github-link-stroke-modelling] | Python packages for easily using our models. | 
-| <a href="https://github.com/stroke-optimist/"><img src="https://avatars.githubusercontent.com/u/77266176" alt="OPTIMIST organisation logo" height="30"></a> [stroke-optimist][github-link-stroke-optimist] | [![GitHub Badge][github-img]][github-link-stroke-optimist]  | Stroke OPTIMIST Project: OPTimising IMplementation of Ischaemic Stroke Thrombectomy. | 
-| <a href="https://github.com/stroke-digital-twin/"><img src="https://avatars.githubusercontent.com/u/145005029" alt="Stroke-Digital-Twin organisation logo" height="30"></a> [stroke-digital-twin][github-link-stroke-digital-twin] | [![GitHub Badge][github-img]][github-link-stroke-digital-twin] | Digital twins of the stroke pathway. | 
+| <a href="https://github.com/stroke-modelling/"><img src="https://avatars.githubusercontent.com/u/141143213" alt="Stroke-Modelling organisation logo" height="15"></a> [stroke-modelling][github-link-stroke-modelling] | [![GitHub Badge][github-img]][github-link-stroke-modelling] | Python packages for easily using our models. | 
+| <a href="https://github.com/stroke-optimist/"><img src="https://avatars.githubusercontent.com/u/77266176" alt="OPTIMIST organisation logo" height="15"></a> [stroke-optimist][github-link-stroke-optimist] | [![GitHub Badge][github-img]][github-link-stroke-optimist]  | Stroke OPTIMIST Project: OPTimising IMplementation of Ischaemic Stroke Thrombectomy. | 
+| <a href="https://github.com/stroke-digital-twin/"><img src="https://avatars.githubusercontent.com/u/145005029" alt="Stroke-Digital-Twin organisation logo" height="15"></a> [stroke-digital-twin][github-link-stroke-digital-twin] | [![GitHub Badge][github-img]][github-link-stroke-digital-twin] | Digital twins of the stroke pathway. | 
 
 ## Repositories here 
 
