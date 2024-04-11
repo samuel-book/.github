@@ -55,7 +55,7 @@ Some of the SAMueL-2 work is also shared between other projects, and some code w
 
 ## Repositories here 
 
-As of November 2023, the public repositories here are the following:
+As of April 2024, the public repositories here are the following:
 
 List of tags: `💻 Modelling` `🧮 Data prep` `📜 Paper` `🖼️ Slides` `🍃 Overleaf` `🎮 Streamlit app` `📎 Admin` `🕮 Online book` `🧪 Test` `⚖️ SHAP` `🔮 Machine learning` `📋 Outcomes` `⏱️ Pathway` `🗺️ Geography`
 
@@ -66,7 +66,11 @@ List of tags: `💻 Modelling` `🧮 Data prep` `📜 Paper` `🖼️ Slides` `�
 | --- | --- | --- |
 | samuel_2_production | Core code for SAMueL-2 | `💻 Modelling` |
 | ssnap_production_code | Code for running of SAMueL analysis by SSNAP | `💻 Modelling` |
-| stroke_outcome_xgb_shap | XGB model, with SHAP, for stroke outcome | `💻 Modelling`<br>`⚖️ SHAP`<br>`🔮 Machine learning`<br>`📋 Outcomes` |
+| thrombolysis_organisational_factors | How do organisational factors affect thrombolysis? | `💻 Modelling` |
+| stroke_outcome_ml | Predicting the discharge disability of stroke patients | `💻 Modelling`<br>`⚖️ SHAP`<br>`🔮 Machine learning`<br>`📋 Outcomes` |
+| geography_data | Data prep for geography - LSOA locations, regions, shape files etc. | `🧮 Data prep` |
+| samuel_example | Replication of Stroke Audit Machine Learning with artificial patient data | `💻 Modelling`<br>`⚖️ SHAP`<br>`🔮 Machine learning` |
+| stroke_outcome_xgb_shap_TO_ARCHIVE | XGB model, with SHAP, for stroke outcome | `💻 Modelling`<br>`⚖️ SHAP`<br>`🔮 Machine learning`<br>`📋 Outcomes` |
 | skeleton-pathway-model | Skeleton SimPy stroke pathway model from onset to thrombolysis and thrombectomy | `💻 Modelling`<br>`⏱️ Pathway` |
 | stroke_outcome | Outcome modelling | `💻 Modelling`<br>`📋 Outcomes` |
 | samuel_causal | Causal analysis and diagrams for the SAMueL project | `💻 Modelling` |
@@ -97,7 +101,8 @@ List of tags: `💻 Modelling` `🧮 Data prep` `📜 Paper` `🖼️ Slides` `�
 | samuel-1 | (blank)  | `🕮 Online book` |
 | samuel-2 | Jupyter book for SAMueL-2 project | `🕮 Online book` |
 | .github | For this organisation's README etc. | `📎 Admin` |
-| overleaf_stroke_outcome_1 | Open paper on stroke outcome modelling | `🍃 Overleaf`<br>`📜 Paper`<br>`📋 Outcomes` | 
+| overleaf_stroke_outcome_1 | Open paper on stroke outcome modelling | `🍃 Overleaf`<br>`📜 Paper`<br>`📋 Outcomes` |
+| stroke_treatment_review | overleaf_stroke_treatment_review | `🍃 Overleaf` <br>`📜 Paper` |
 | overleaf_samuel_shap_presentation | SHAP presentation | `🍃 Overleaf`<br>`🖼️ Slides`<br>`⚖️ SHAP`<br>`🔮 Machine learning` |
 | overleaf_shap_paper_2 | SHAP paper focusing on interactions | `🍃 Overleaf`<br>`📜 Paper`<br>`⚖️ SHAP`<br>`🔮 Machine learning` | 
 | overleaf_shap_paper_1_for_esj | Overleaf_SHAP_paper_1_for_ESJ | `🍃 Overleaf` <br>`📜 Paper`<br>`⚖️ SHAP`<br>`🔮 Machine learning` | 
